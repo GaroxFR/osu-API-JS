@@ -1,0 +1,23 @@
+{
+  "name": "osuapi",
+  "version": "1.0.0",
+  "description": "An api to get osu stats",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaroxFR/osu-API-JS.git"
+  },
+  "keywords": [
+    "osu",
+    "api"
+  ],
+  "author": "GartoxFR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaroxFR/osu-API-JS/issues"
+  },
+  "homepage": "https://github.com/GaroxFR/osu-API-JS#readme"
+}
